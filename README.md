@@ -6,7 +6,7 @@ as well as introductions to libraries, databases, JSON, and classes/objects
 
 Assigmnents:
 
-[2D Arrays](/CSCI 220/2DArrayslab/2DAExplnation.md)
+[2D Arrays](/CSCI220/2DArrayslab/2DAExplnation.md)
 
 CSCI 221 was a C++ based course that retreaded similar ground but also had discussions on Object Oriented Progamming, search efficiency, sort efficiency, and input/output streams
 
