@@ -1,6 +1,6 @@
 /**
  * @brief file for implementing and using the item and shoppingCart class
- * @name Thomas Janckila StarID: cd2898vx
+ * @name Thomas Janckila 
  * @date 9/22/25
  * @instructor Jie Hu Meichsner
  */

@@ -1,6 +1,6 @@
 /**
  * @brief declarations of the item class
- * @name Thomas Janckila StarID: cd2898vx
+ * @name Thomas Janckila
  * @date 9/22/25
  * @instructor Jie Hu Meichsner
  */

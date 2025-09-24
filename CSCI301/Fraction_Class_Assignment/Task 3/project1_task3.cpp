@@ -1,7 +1,6 @@
 /*
 * @instructor Dr. Jie Hu Meichsner
 * @name Thomas Janckila
-* @starID cd2898vx
 * @date 9/4/2025
 * @file project1_task3.cpp
 * @brief test code for the operator overloads on the Fraction class

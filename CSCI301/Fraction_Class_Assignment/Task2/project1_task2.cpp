@@ -1,7 +1,6 @@
 /*
 * @instructor Dr. Jie Hu Meichsner
 * @name Thomas Janckila
-* @starID cd2898vx
 * @date 9/4/2025
 * @file project1_task2.cpp
 * @brief test code for the functions for the operators of the fraction class
