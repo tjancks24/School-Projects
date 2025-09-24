@@ -9,11 +9,12 @@ Refined foudational programming data types and began expirience with Databases, 
 
 Assigmnents:
 
-[JSON Data Transformation](/CSCI220/JSON_Data_Transformation) - Parsed and transformed JSON to readable output
+[JSON Data Transformation](/CSCI220/JSON_Data_Transformation) - Validates and transforms user input into JSON for storage
 
-[LODASH Assignment](/CSCI220/LODASH_Assignment)
+[LODASH Assignment](/CSCI220/LODASH_Assignment) - Built an interactive dashboard that parses Student data and allows users to identify students
+in catagories such as Attendance, Major, and Year
 
-[Movie Database Assignment](/CSCI220/Movie_Database_Asignment)
+[Movie Database Assignment](/CSCI220/Movie_Database_Asignment) - 
 
 [TicTacToe Assignment](/CSCI220/TicTacToe_Assignment)
 
