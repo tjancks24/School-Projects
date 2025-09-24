@@ -4,7 +4,7 @@ Collection of my school projects
 CSCI 220 was a JavaScript based introductory class where I expanded knowledge of basic and linear data types
 as well as introductions to libraries, databases, JSON, and classes/objects
 Assigmnents:
-2D Arrays: [/workspaces/School-Projects/CSCI 220/2DArrayslab/2DAExplnation.md](url)
+[2D Arrays](/workspaces/School-Projects/CSCI 220/2DArrayslab)
 
 CSCI 221 was a C++ based course that retreaded similar ground but also had discussions on Object Oriented Progamming, search efficiency, sort efficiency, and input/output streams
 
