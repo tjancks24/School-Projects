@@ -9,32 +9,27 @@ Refined foudational programming data types and began expirience with Databases, 
 
 Assigmnents:
 
-[JSON Data Transformation](/CSCI220/JSON_Data_Transformation) - Validates and transforms user input into JSON for storage
+[JSON Data Transformation](/CSCI200/JSON_Data_Transformation) - Validates and transforms user input into JSON for storage
 
-[LODASH Assignment](/CSCI220/LODASH_Assignment) - Built an interactive dashboard that parses Student data and allows users to identify students
+[LODASH Assignment](/CSCI200/LODASH_Assignment) - Built an interactive dashboard that parses Student data and allows users to identify students
 in catagories such as Attendance, Major, and Year
 
-[Movie Database Assignment](/CSCI220/Movie_Database_Asignment) - 
+[Movie Database Assignment](/CSCI200/Movie_Database_Asignment) - Demonstrated ability to parse JSON and format and display the results to a ebpage
 
-[TicTacToe Assignment](/CSCI220/TicTacToe_Assignment)
+[TicTacToe Assignment](/CSCI200/TicTacToe_Assignment) - Designed and implemented a TicTacToe game for one or two players while managing game state,
+AI Logic, and DOM manipulation
 
-###CSCI 201 was a C++ based course that retreaded similar ground but also had discussions on Object-Oriented Progamming, search and sort alogorithms, and input/output streams
-Many of the labs took place in an online textbook that I have unfortunately since lost access to 
+###CSCI 201 - Computer Science 1 
+Further refinement of Computer Science fundementals and introductions to pointers, linked lists, search and sort algorithms, I/O streams and Oobject Oriented Programming with C++
+*Note many of the labs for this class were done through an online textbook that I have since lost access to
 
-[C++ Foundations](/CSCI221/C++_Foundations)
+[Employee Class Assignment](/CSCI201/Employee_Class_Assigment) - Showed understanding of fundemental OOP concepts such as encapsulation and abstraction
 
-[Employee Class Assignment](/CSCI221/Employee_Class_Assigment)
+[File Head Assignment](/CSCI201/File_Head_Assignment) - Created a program that demonstrates knowledge of fundamental concpts of I/O streams
 
-[File Head Assignment](/CSCI221/File_Head_Assignment)
+###CSCI 301 - In progress course where I will use C++ to develop and enhance skills around ADTS, trees, graphs, searching and sorting, and program layering
 
-[Hotel Assignment](/CSCI221/Hotel_Assignment)
+[Fraction Class Assignment](/CSCI301/Fraction_Class_Assignment) - Shows a stronger knowledge of OOP concepts of encapsulation and overloading for fractions
 
-[Payroll Assignment](/CSCI221/Payroll_Assignment)
-
-CSCI 301 is my current, C++ based, course where we will continue using Object-Oriented Programming and discuss and create projects related to recursion and recurrence, trees, binary
-trees, 2/3 trees, directed and undirected graphs, searching and sorting, and program layering
-We are also learning proper code commenting, program documentation, and user documentation 
-
-[E-Commerce Assignment](/CSCI301/E-Commerce_Assignment)
-
-[Fraction Class Assignment](/CSCI301/Fraction_Class_Assignment)
+[E-Commerce Assignment](/CSCI301/E-Commerce_Assignment) - Program built using OOP concepts of encapsulation, overloading and inheritance to create a simple
+virtual shopping cart that users can add, remove, and modify items from
