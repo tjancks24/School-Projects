@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JSONDT Example</title>
+    <link rel="stylesheet" href="JSONDT.css">
+</head>
+<body>
+    <h1>Student Information Submission Form</h1>
+    <Label>Name:</Label> <input id = "nameInput"> <br>
+    <label>Age:</label>  <input id = "ageInput" type = "number"> <br>
+    <Label>Email:</Label> <input id = "emailInput"> <br>
+    <Label>Grade:</Label> <input id = "gradeInput"> <br>
+    <Label>Major:</Label> <input id = "majorInput"> <br>
+    <Label>GPA:</Label> <input id = "gpaInput" type = "number" step = "any"> <br>
+    <Label>Phone Number:</Label> <input id = "phoneInput" type = "number"> <br>
+    <Label>Address:</Label> <input id = "addressInput"> <br>
+    <Label>Intersts:</Label> <input id = "interestInput"> <br>
+    <Label>Achievements:</Label> <input id = "acheiveInput"> <br>
+    <button onclick = "infoCollect()">Submit</button> <br>
+    <Label>Student Index:</Label> <input id = "indexInput" type = "number" value = "0"> <br>
+    <button onclick = "convertJSON()">Convert JSON</button>
+    <div id = "errorDiv"></div>
+    <script src="JSONDT.js" defer></script>
+</body>
+</html>

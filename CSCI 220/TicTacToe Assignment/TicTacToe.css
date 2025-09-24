@@ -1,0 +1,16 @@
+.title {
+    color: black;
+}
+#grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+    margin: 20px 0;
+    padding: 20px;
+    width: max-content;
+}     
+#grid button{
+    height: 100px;
+    width: 100px;
+    font-size: 90px;
+}

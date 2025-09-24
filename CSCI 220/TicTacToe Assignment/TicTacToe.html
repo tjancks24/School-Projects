@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Title</title>
+        <link rel="stylesheet" href="TicTacToe.css" />
+    </head>
+    <body>
+        <h1 class="title">Tic Tac Toe</h1>
+        <select id="playerCount">
+            <option value = 2> Two Player</option> 
+            <option value = 1> Single Player</option>    
+        </select>
+        <button id = "reset" onclick = "reset()">Reset</button>
+        <div id = "turnDiv">Hello Div</div>
+        <div id = "grid">
+        <button id = "TL" onclick = "playerCount(0)"> </button> 
+        <button id = "TC" onclick = "playerCount(1)"> </button>
+        <button id = "TR" onclick = "playerCount(2)"> </button> 
+        <button id = "CL" onclick = "playerCount(3)"> </button>
+        <button id = "C" onclick = "playerCount(4)"> </button> 
+        <button id = "CR" onclick = "playerCount(5)"> </button>
+        <button id = "BL" onclick = "playerCount(6)"> </button>
+        <button id = "BC" onclick = "playerCount(7)"> </button>
+        <button id = "BR" onclick = "playerCount(8)"> </button>
+        </div>
+        <div id = "notice">It is Player 1's turn. </div>
+        <script src="TicTacToe.js"></script>
+    </body>
+</html>

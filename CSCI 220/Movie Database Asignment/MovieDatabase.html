@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Database</title>
+    <link rel="stylesheet" href="MovieDatabase.css">
+</head>
+<body>
+    <h1>Movie Database</h1>
+    <label>Director Search:</label><input id = 'searchInput'>
+    <select id = 'ratingSelect'>
+        <option value="0">Sort by Rating</option>
+        <option value="1">Highest </option>
+        <option value="2">Lowest</option>
+    </select>
+    <div id = "gridDiv" class = "grid">
+        <div class = "cell">Title</div>
+        <div class = "cell">Year</div>
+        <div class = "cell">Director</div>
+        <div class = "cell">Rating</div>
+        <div class = "cell">Runtime</div>
+        <div class = "cell">Genres</div>
+        <div class = "cell">Box Office</div>
+        <div class = "cell">Awards</div>
+        <div class = "cell">Cast</div>
+    </div>
+    <script src="MovieDatabase.js" defer></script>
+    <footer>
+        <br>Thomas Janckila Dec 2024 CSCI 200
+    </footer>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+    <head> <link rel = "stylesheet" href = "patternGenerator.css"></head><body>
+
+    <div class="container">
+        <h1>Pattern Generator</h1>
+        
+        <div class="grid-controls">
+            <label for="gridSize">Grid Size:</label>
+            <input id ="gridInput" type="number" min ="1" max="20" value = "8">
+            <button onClick="createGrid()">Apply Size</button>
+            <div id = "errorDiv"></div>
+        </div>
+
+        <div class="color-controls">
+            <button onclick="fillGrid()">Fill Color</button>
+            <select id = "colorSelect">
+                <option value="red">Red</option>
+                <option value="orange">Orange</option>
+                <option value="yellow">Yellow</option>
+                <option value="green">Green</option>
+                <option value="blue">Blue</option>
+                <option value="purple">Purple</option>
+                <option value="black">Black</option>
+                <option value="brown">Brown</option>
+                <option value="gray">Gray</option>
+                <option value="white">White</option>
+                <option value="pink">Pink</option>
+                <option value="cyan">Cyan</option>
+            </select>
+            <button id = "previewButton" style = "background-color: red;">Preview</button>
+            
+        </div>
+
+        <div class="controls">
+            <Button onclick="clearGrid()">Clear Grid</Button>
+            <Button onclick="randomGrid()">Random Pattern</Button>
+            <Button onclick="rotate90()">Rotate 90&#176;</Button>
+            <Button onclick="horizontalMirror()">Mirror Horizontal</Button>
+            <Button onclick="verticalMirror()">Mirror Vertical</Button>
+            <Button onclick="diagTLBR()">Flip Main Diagonal</Button>
+            <Button onclick="diagTRBL()">Flip Secondary Diagonal</Button>
+        </div>
+
+        <div class="grid"></div>
+
+        <div class="pattern-storage">
+            <select id="saveSelect">Saved Patterns</select>
+            <button onclick="saveState()">Save Current</button>
+            <button onclick="applySave()">Apply Saved Pattern</button>
+            <button onclick="clearSaved()">Clear Saved</button>
+            <div></div>
+        </div>
+    </div>
+    <script type="module" src="https://s.brightspace.com/lib/bsi/2024.10.207/unbundled/mathjax.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+        if (document.querySelector('math') || /\$\$|\\\(|\\\[|\\begin{|\\ref{|\\eqref{/.test(document.body.innerHTML)) {
+            document.querySelectorAll('mspace[linebreak="newline"]').forEach(elm => {
+                elm.setAttribute('style', 'display: block; height: 0.5rem;');
+            });
+
+            window.D2L.MathJax.loadMathJax({
+                outputScale: 1.5,
+                renderLatex: true,
+                enableMML3Support: false
+            });
+        }
+    });</script><script type="module" src="https://s.brightspace.com/lib/bsi/2024.10.207/unbundled/prism.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.d2l-code').forEach(code => {
+        window.D2L.Prism.formatCodeElement(code);
+    });
+});</script><script type="module" src="https://s.brightspace.com/lib/bsi/2024.10.207/unbundled/embeds.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
+    window.D2L.EmbedRenderer.renderEmbeds(document.body);
+});</script>
+    <script src = "patternGenerator.js" defer></script>
+    </body></html>

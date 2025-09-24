@@ -1,0 +1,178 @@
+{
+  "movies": [
+    {
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "Lana and Lilly Wachowski",
+      "rating": 8.7,
+      "runtime": 136,
+      "genres": ["Action", "Sci-Fi"],
+      "boxOffice": 463517383,
+      "awards": ["Academy Award for Best Visual Effects", "Academy Award for Best Sound"],
+      "cast": [
+        {"name": "Keanu Reeves", "role": "Neo", "salary": 10000000},
+        {"name": "Laurence Fishburne", "role": "Morpheus", "salary": 7500000},
+        {"name": "Carrie-Anne Moss", "role": "Trinity", "salary": 5000000}
+      ]
+    },
+    {
+      "title": "John Wick",
+      "year": 2014,
+      "director": "Chad Stahelski",
+      "rating": 7.4,
+      "runtime": 101,
+      "genres": ["Action", "Crime", "Thriller"],
+      "boxOffice": 86013268,
+      "awards": [],
+      "cast": [
+        {"name": "Keanu Reeves", "role": "John Wick", "salary": 15000000},
+        {"name": "Willem Dafoe", "role": "Marcus", "salary": 5000000}
+      ]
+    },
+    {
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "rating": 8.8,
+      "runtime": 148,
+      "genres": ["Action", "Sci-Fi", "Thriller"],
+      "boxOffice": 836836967,
+      "awards": ["Academy Award for Best Visual Effects", "Academy Award for Best Cinematography"],
+      "cast": [
+        {"name": "Leonardo DiCaprio", "role": "Cobb", "salary": 20000000},
+        {"name": "Joseph Gordon-Levitt", "role": "Arthur", "salary": 8000000},
+        {"name": "Ellen Page", "role": "Ariadne", "salary": 5000000},
+        {"name": "Marion Cotillard", "role": "Mal", "salary": 7000000}
+      ]
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3,
+      "runtime": 142,
+      "genres": ["Drama"],
+      "boxOffice": 58800000,
+      "awards": ["Golden Globe Award for Best Actor"],
+      "cast": [
+        {"name": "Tim Robbins", "role": "Andy Dufresne", "salary": 3000000},
+        {"name": "Morgan Freeman", "role": "Red", "salary": 4000000}
+      ]
+    },
+    {
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9,
+      "runtime": 154,
+      "genres": ["Crime", "Drama"],
+      "boxOffice": 213928762,
+      "awards": ["Academy Award for Best Original Screenplay"],
+      "cast": [
+        {"name": "John Travolta", "role": "Vincent Vega", "salary": 8000000},
+        {"name": "Samuel L. Jackson", "role": "Jules Winnfield", "salary": 5000000},
+        {"name": "Uma Thurman", "role": "Mia Wallace", "salary": 3500000}
+      ]
+    },
+    {
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "rating": 9.0,
+      "runtime": 152,
+      "genres": ["Action", "Crime", "Drama"],
+      "boxOffice": 1004558444,
+      "awards": ["Academy Award for Best Supporting Actor"],
+      "cast": [
+        {"name": "Christian Bale", "role": "Bruce Wayne", "salary": 15000000},
+        {"name": "Heath Ledger", "role": "Joker", "salary": 20000000},
+        {"name": "Michael Caine", "role": "Alfred", "salary": 8000000},
+        {"name": "Morgan Freeman", "role": "Lucius Fox", "salary": 10000000}
+      ]
+    },
+    {
+      "title": "You've Got Mail",
+      "year": 1998,
+      "director": "Nora Ephron",
+      "rating": 6.7,
+      "runtime": 119,
+      "genres": ["Comedy", "Romance"],
+      "boxOffice": 250821495,
+      "awards": [],
+      "cast": [
+        {"name": "Tom Hanks", "role": "Joe Fox", "salary": 12000000},
+        {"name": "Meg Ryan", "role": "Kathleen Kelly", "salary": 8500000}
+      ]
+    },
+    {
+      "title": "Sleepless in Seattle",
+      "year": 1993,
+      "director": "Nora Ephron",
+      "rating": 6.8,
+      "runtime": 105,
+      "genres": ["Comedy", "Drama", "Romance"],
+      "boxOffice": 227799884,
+      "awards": [],
+      "cast": [
+        {"name": "Tom Hanks", "role": "Sam Baldwin", "salary": 5000000},
+        {"name": "Meg Ryan", "role": "Annie Reed", "salary": 4500000}
+      ]
+    },
+    {
+      "title": "Titanic",
+      "year": 1997,
+      "director": "James Cameron",
+      "rating": 7.9,
+      "runtime": 194,
+      "genres": ["Drama", "Romance"],
+      "boxOffice": 2201647264,
+      "awards": ["Academy Award for Best Picture", "Academy Award for Best Director"],
+      "cast": [
+        {"name": "Leonardo DiCaprio", "role": "Jack Dawson", "salary": 2500000},
+        {"name": "Kate Winslet", "role": "Rose DeWitt Bukater", "salary": 2000000}
+      ]
+    },
+    {
+      "title": "The Wolf of Wall Street",
+      "year": 2013,
+      "director": "Martin Scorsese",
+      "rating": 8.2,
+      "runtime": 180,
+      "genres": ["Biography", "Crime", "Drama"],
+      "boxOffice": 392000694,
+      "awards": [],
+      "cast": [
+        {"name": "Leonardo DiCaprio", "role": "Jordan Belfort", "salary": 25000000},
+        {"name": "Margot Robbie", "role": "Naomi Lapaglia", "salary": 750000}
+      ]
+    },
+    {
+      "title": "Speed",
+      "year": 1994,
+      "director": "Jan de Bont",
+      "rating": 7.2,
+      "runtime": 116,
+      "genres": ["Action", "Adventure", "Thriller"],
+      "boxOffice": 350448145,
+      "awards": [],
+      "cast": [
+        {"name": "Keanu Reeves", "role": "Jack Traven", "salary": 1200000},
+        {"name": "Sandra Bullock", "role": "Annie Porter", "salary": 500000}
+      ]
+    },
+    {
+      "title": "When Harry Met Sally",
+      "year": 1989,
+      "director": "Rob Reiner",
+      "rating": 7.7,
+      "runtime": 95,
+      "genres": ["Comedy", "Romance"],
+      "boxOffice": 92823600,
+      "awards": ["Golden Globe Nomination for Best Comedy"],
+      "cast": [
+        {"name": "Billy Crystal", "role": "Harry Burns", "salary": 3000000},
+        {"name": "Meg Ryan", "role": "Sally Albright", "salary": 1000000}
+      ]
+    }
+  ]
+}

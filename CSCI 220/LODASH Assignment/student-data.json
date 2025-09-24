@@ -1,0 +1,154 @@
+{
+  "students": [
+    {
+      "id": 1001,
+      "name": "Alice Chen",
+      "grade": 85,
+      "year": "Sophomore",
+      "subjects": ["Math", "Physics", "Computer Science", "English"],
+      "extracurriculars": ["Chess Club", "Robotics Team"],
+      "attendance": 95,
+      "gpa": 3.7
+    },
+    {
+      "id": 1002,
+      "name": "Bob Rodriguez",
+      "grade": 72,
+      "year": "Freshman",
+      "subjects": ["History", "English", "Spanish", "Biology"],
+      "extracurriculars": ["Basketball", "Student Council"],
+      "attendance": 88,
+      "gpa": 3.1
+    },
+    {
+      "id": 1003,
+      "name": "Carol Patel",
+      "grade": 90,
+      "year": "Senior",
+      "subjects": ["Math", "Chemistry", "English", "Economics"],
+      "extracurriculars": ["Debate Club", "Math Olympics"],
+      "attendance": 98,
+      "gpa": 4.0
+    },
+    {
+      "id": 1004,
+      "name": "David Kim",
+      "grade": 85,
+      "year": "Junior",
+      "subjects": ["Physics", "History", "Art", "French"],
+      "extracurriculars": ["Band", "Soccer"],
+      "attendance": 92,
+      "gpa": 3.6
+    },
+    {
+      "id": 1005,
+      "name": "Emma Thompson",
+      "grade": 88,
+      "year": "Senior",
+      "subjects": ["Biology", "Psychology", "English", "Statistics"],
+      "extracurriculars": ["Theater", "Environmental Club"],
+      "attendance": 94,
+      "gpa": 3.8
+    },
+    {
+      "id": 1006,
+      "name": "Francisco Garcia",
+      "grade": 78,
+      "year": "Sophomore",
+      "subjects": ["Spanish", "Geography", "Music", "Math"],
+      "extracurriculars": ["Guitar Club", "Track Team"],
+      "attendance": 85,
+      "gpa": 3.2
+    },
+    {
+      "id": 1007,
+      "name": "Grace Wong",
+      "grade": 95,
+      "year": "Junior",
+      "subjects": ["Chemistry", "Literature", "Calculus", "History"],
+      "extracurriculars": ["Science Club", "Yearbook"],
+      "attendance": 97,
+      "gpa": 4.0
+    },
+    {
+      "id": 1008,
+      "name": "Hassan Ahmed",
+      "grade": 83,
+      "year": "Freshman",
+      "subjects": ["Biology", "Algebra", "Art", "English"],
+      "extracurriculars": ["Photography Club", "Swimming"],
+      "attendance": 90,
+      "gpa": 3.5
+    },
+    {
+      "id": 1009,
+      "name": "Isabella Romano",
+      "grade": 92,
+      "year": "Senior",
+      "subjects": ["Physics", "Italian", "Computer Science", "Math"],
+      "extracurriculars": ["Coding Club", "Volleyball"],
+      "attendance": 96,
+      "gpa": 3.9
+    },
+    {
+      "id": 1010,
+      "name": "James Wilson",
+      "grade": 76,
+      "year": "Sophomore",
+      "subjects": ["History", "English", "Music", "Geography"],
+      "extracurriculars": ["Jazz Band", "Baseball"],
+      "attendance": 87,
+      "gpa": 3.0
+    },
+    {
+      "id": 1011,
+      "name": "Keisha Johnson",
+      "grade": 89,
+      "year": "Junior",
+      "subjects": ["Literature", "French", "Psychology", "Art"],
+      "extracurriculars": ["Dance Team", "Poetry Club"],
+      "attendance": 93,
+      "gpa": 3.7
+    },
+    {
+      "id": 1012,
+      "name": "Liam O'Connor",
+      "grade": 87,
+      "year": "Freshman",
+      "subjects": ["Math", "Science", "Irish", "History"],
+      "extracurriculars": ["Rugby", "Drama Club"],
+      "attendance": 91,
+      "gpa": 3.6
+    },
+    {
+      "id": 1013,
+      "name": "Maria Sanchez",
+      "grade": 94,
+      "year": "Senior",
+      "subjects": ["Spanish", "Biology", "Calculus", "Economics"],
+      "extracurriculars": ["Model UN", "Tennis"],
+      "attendance": 98,
+      "gpa": 3.9
+    },
+    {
+      "id": 1014,
+      "name": "Nina Patel",
+      "grade": 81,
+      "year": "Junior",
+      "subjects": ["Chemistry", "English", "Statistics", "Music"],
+      "extracurriculars": ["Orchestra", "Debate Team"],
+      "attendance": 89,
+      "gpa": 3.4
+    },
+    {
+      "id": 1015,
+      "name": "Oscar Nguyen",
+      "grade": 93,
+      "year": "Sophomore",
+      "subjects": ["Physics", "Vietnamese", "Math", "Computer Science"],
+      "extracurriculars": ["Robotics Club", "Cross Country"],
+      "attendance": 95,
+      "gpa": 3.8
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+<html lang="en">
+    <head><title>Monty Hall Problem</title></head>
+    <body>
+        <script src ="MHP.js" defer> </script>
+    <h1>The Monty Hall Phenomenon</h1>
+    <div>
+        <button onclick="guessCheck(0);">Door Number 1</button>
+        <button onclick="guessCheck(1);">Door Number 2</button>
+        <button onclick="guessCheck(2);">Door Number 3</button>
+    </div>
+    <div id="rDiv">Click Reset and choose a door to start the game!</div>
+    <button onclick="reset()">Reset</button>
+    <button onclick="statReset()">Reset Stats</button>
+    <button onclick="simulation()"> Run Simulations </button>
+    <input id="simInput">
+    <div id="StWDiv">Stay Wins:</div>
+    <div id="SwWDiv">Switch Wins:</div>
+    <div id="StLDiv">Stay Losses:</div>
+    <div id="SwLDiv">Switch Losses:</div>
+    </body>
+</html>

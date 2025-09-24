@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>2D Array Warmup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        .grid {
+            display: inline-grid;
+            gap: 2px;
+            background-color: #ccc;
+            padding: 2px;
+            margin: 10px;
+        }
+        .cell {
+            width: 30px;
+            height: 30px;
+            background-color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: monospace;
+            border-width: 2px;
+            border-style: solid;
+        }
+        .exercise {
+            margin: 20px 0;
+            padding: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            margin: 5px;
+            padding: 5px 10px;
+        }
+        .success {
+            color: green;
+            font-weight: bold;
+        }
+        .failure {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1>2D Array Warmup Exercises</h1>
+    
+    <div class="exercise">
+        <h3>Exercise 1: Create a 3x3 Grid</h3>
+        <p>Fill a 3x3 grid with numbers 1-9 in row-major order.</p>
+        <div id="ex1"></div>
+        <button onclick="runExercise1()">Try Exercise 1</button>
+        <div id="result1"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 2: Sum the Diagonals</h3>
+        <p>Calculate the sum of both diagonals in the grid.</p>
+        <div id="ex2"></div>
+        <button onclick="runExercise2()">Try Exercise 2</button>
+        <div id="result2"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 3: Rotate Right</h3>
+        <p>Rotate the 3x3 grid 90 degrees clockwise.</p>
+        <div id="ex3"></div>
+        <button onclick="runExercise3()">Try Exercise 3</button>
+        <div id="result3"></div>
+    </div>
+    
+    <div class="exercise">
+        <h3>Exercise 4: Convert 1D to 2D Array</h3>
+        <p>Convert a 1D array into a 2D array with specified dimensions.</p>
+        <div id="ex4"></div>
+        <button onclick="runExercise4()">Try Exercise 4</button>
+        <div id="result4"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 5: Fill Border</h3>
+        <p>Create a grid with 1's on the border and 0's inside.</p>
+        <div id="ex5"></div>
+        <button onclick="runExercise5()">Try Exercise 5</button>
+        <div id="result5"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 6: Checkerboard</h3>
+        <p>Create an alternating pattern of 1's and 0's.</p>
+        <div id="ex6"></div>
+        <button onclick="runExercise6()">Try Exercise 6</button>
+        <div id="result6"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 7: Mirror Array</h3>
+        <p>Create a mirror image of the input grid.</p>
+        <div id="ex7"></div>
+        <button onclick="runExercise7()">Try Exercise 7</button>
+        <div id="result7"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 8: Fill Pattern</h3>
+        <p>Create a diamond pattern in the grid.</p>
+        <div id="ex8"></div>
+        <button onclick="runExercise8()">Try Exercise 8</button>
+        <div id="result8"></div>
+    </div>
+
+    <div class="exercise">
+        <h3>Exercise 9: Count Region</h3>
+        <p>Count the size of a connected region starting from a given position.</p>
+        <div id="ex9"></div>
+        <button onclick="runExercise9()">Try Exercise 9</button>
+        <div id="result9"></div>
+    </div>
+
+    <!-- Load the JavaScript file -->
+    <script src="warmup-template-js.js"></script>
+</body>
+</html>
