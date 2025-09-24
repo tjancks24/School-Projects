@@ -1,6 +1,7 @@
 #School Projects Portfolio
-This repository contains all of the school projects I have completed as part of my Computer Science Coursework with links to most relevant projects
-They demonstrate growth in programming fundamentals, Object Oriented Programming, Algorithms using *JavaScript* and C++
+
+This repository showcases my school projects completed as part of my Computer Science coursework. These projects demonstrate my growth in programming fundamentals, Object-Oriented Programming, and algorithms using JavaScript and C++.
+The most relevant projects are linked below
 
 #Courses and Projects
 
